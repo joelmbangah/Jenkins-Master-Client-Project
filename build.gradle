@@ -39,7 +39,7 @@ sonarqube {
         property "sonar.sourceEncoding", "UTF-8"
                 property "sonar.projectName", "Gradle-JavaWebApp-3"
                 property "sonar.host.url", "http://172.31.54.134:9000"
-                property "sonar.login", "2c922d08af2cded71c57450239097608d465980c"
+                property "sonar.login", "1ea67dbb4b491dbc691682d697d3ebb6d5b44161"
     }
 }
 
